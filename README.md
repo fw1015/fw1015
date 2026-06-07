@@ -17,7 +17,7 @@
 - OpenCV | Flask | GPIOZERO
 
 ### Featured Projects
-- **[RC-Car-ROS2]([link](https://github.com/fw1015/rc-car-ros2))** → Main autonomous car project (Web + ROS2 + Hardware)
+- **[RC-Car-ROS2](https://github.com/fw1015/rc-car-ros2)** → Main autonomous car project (Web + ROS2 + Hardware)
 
 ### Currently Learning
 - Advanced PID + Kinematics
