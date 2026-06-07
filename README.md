@@ -1,4 +1,4 @@
-# Hi, I'm Founder Wan 👋
+# Hi 👋
 
 **Robotics & Embedded Systems Engineer** | Building autonomous RC cars with ROS2 + Raspberry Pi
 
